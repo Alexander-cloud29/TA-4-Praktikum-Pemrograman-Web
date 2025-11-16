@@ -2,7 +2,7 @@
 
 # 📇 Sistem Manajemen Kontak Sederhana – PHP + Session
 
-Proyek ini merupakan implementasi dari **Sistem Manajemen Kontak Sederhana** menggunakan bahasa pemrograman **PHP Native** tanpa database, di mana data disimpan menggunakan **Session Management**. Program ini dibuat untuk memenuhi spesifikasi tugas:
+Proyek ini merupakan implementasi dari **Sistem Manajemen Kontak Sederhana** menggunakan bahasa pemrograman **PHP**. Program ini dibuat untuk memenuhi spesifikasi tugas:
 
 ## ✔ Spesifikasi yang Dipenuhi
 - Form tambah kontak dengan validasi
@@ -13,7 +13,7 @@ Proyek ini merupakan implementasi dari **Sistem Manajemen Kontak Sederhana** men
 ---
 
 ## 🛠 Teknologi dan Tools
-- PHP Native
+- PHP
 - HTML5
 - TailwindCSS (CDN)
 - Session (Array Storage)
