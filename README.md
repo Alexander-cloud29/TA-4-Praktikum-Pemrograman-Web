@@ -23,17 +23,14 @@ Proyek ini merupakan implementasi dari **Sistem Manajemen Kontak Sederhana** men
 
 ## 📌 Fitur Utama
 
-### 1️⃣ Tambah Kontak
+### 1️. Tambah Kontak
 Form input kontak yang memiliki validasi:
 - Nama wajib diisi
 - Nomor telepon wajib angka
 - Email opsional namun valid jika diisi
 
-### 2️⃣ Edit Kontak  
+### 2️. Edit Kontak  
 Pengguna dapat memperbarui data kontak melalui parameter ID.
 
-### 3️⃣ Hapus Kontak  
+### 3️. Hapus Kontak  
 Kontak dapat dihapus berdasarkan ID menggunakan action delete.
-
-### 4️⃣ Reset Semua Kontak  
-Tersedia link reset untuk menghapus seluruh konten session.
